@@ -1,0 +1,62 @@
+﻿order_id,customerid,Order_date,status,total_amount,description
+DH001,KH009,28/12/2024,Đã Hủy,691210,Mua sách kinh tế
+DH002,KH010,30/12/2024,ĐG,2107992,Mua sách kinh tế
+DH003,KH015,15/12/2024,Đã Hủy,4499396,Mua truyện tranh
+DH004,KH015,23/12/2024,Đã Giao,3426944,Mua sác giáo dục đời sống
+DH005,KH021,20/12/2024,Đã Hủy,3324084,Mua sách giáo khoa
+DH006,KH010,25/12/2024,Đã Giao,3215147,Mua sách giáo khoa
+DH007,KH025,18/12/2024,CXL,4076456,Mua sách tham khảo
+DH008,KH022,19/12/2024,Đang Giao,3593114,Mua sách kinh tế
+DH009,KH012,18/12/2024,Đang Giao,2300219,Mua sách giáo khoa
+DH010,KH021,15/12/2024,Đã Giao,1747004,Mua sách giáo khoa
+DH011,KH019,22/12/2024,Chờ Xử Lý,2750955,Mua sách tham khảo
+DH012,KH015,28/12/2024,Đã Giao,1394722,Mua sách giáo dục đời sống
+DH013,KH030,12/29/2024,Đang Giao,1480458,Mua truyện tranh
+DH014,KH010,20/12/2024,Đang Giao,4056538,Mua truyện tranh
+DH015,KH020,21/12/2024,Đang Giao,4480732,Mua sách kinh tế
+DH016,KH007,21/12/2024,Đã Hủy,2182875,Mua sách kinh tế
+DH017,KH015,22/12/2024,Đã Giao,4688452,Mua truyện tranh
+DH018,KH006,22/12/2024,Đã Giao,980530,Mua sác giáo dục đời sống
+DH019,KH002,30/12/2024,Đang Giao,2313782,Mua sách giáo khoa
+DH020,KH005,23/12/2024,Đã Giao,2966952,Mua sách giáo khoa
+DH021,KH021,23/12/2024,Đã Hủy,3355079,Mua sách tham khảo
+DH022,KH015,12/21/2024,ĐG,2711668,Mua sách kinh tế
+DH023,KH016,12/15/2024,Đã Hủy,3283530,Mua sách giáo khoa
+DH024,KH014,31/12/2024,Đã Giao,4039604,Mua sách giáo khoa
+DH025,KH026,28/12/2024,Đã Hủy,3105906,Mua sách tham khảo
+DH026,KH010,30/12/2024,Đã Giao,3376405,Mua sách giáo dục đời sống
+DH027,KH003,15/12/2024,CXL,4874452,Mua truyện tranh
+DH028,KH024,23/12/2024,Đang Giao,3383509,Mua truyện tranh
+DH029,KH010,20/12/2024,Đang Giao,2295280,Mua sách kinh tế
+DH030,KH006,25/12/2024,Đã Giao,883329,Mua sách kinh tế
+DH031,KH026,18/12/2024,Chờ Xử Lý,1253161,Mua truyện tranh
+DH032,KH018,19/12/2024,Đã Giao,2863081,Mua sác giáo dục đời sống
+DH033,KH004,18/12/2024,Đang Giao,2729578,Mua sách giáo khoa
+DH034,KH029,15/12/2024,Đang Giao,3052962,Mua sách giáo khoa
+DH035,KH010,22/12/2024,Đang Giao,1650897,Mua sách tham khảo
+DH036,KH007,28/12/2024,Đã Hủy,2643468,Mua sách kinh tế
+DH037,KH005,12/29/2024,Đã Giao,698519,Mua sách giáo khoa
+DH038,KH016,20/12/2024,Đã Giao,4944006,Mua sách giáo khoa
+DH039,KH026,21/12/2024,Đang Giao,3481311,Mua sách tham khảo
+DH040,KH001,21/12/2024,Đã Giao,3617348,Mua sách giáo dục đời sống
+DH041,KH030,22/12/2024,Đã Hủy,2738000,Mua truyện tranh
+DH042,KH005,22/12/2024,ĐG,4212335,Mua truyện tranh
+DH043,KH009,30/12/2024,Đã Hủy,4730466,Mua sách kinh tế
+DH044,KH006,23/12/2024,Đã Giao,2036047,Mua sách kinh tế
+DH045,KH010,23/12/2024,Đã Hủy,1457609,Mua truyện tranh
+DH046,KH028,12/21/2024,Đã Giao,3936622,Mua sác giáo dục đời sống
+DH047,KH015,12/15/2024,CXL,4086133,Mua sách giáo khoa
+DH048,KH029,31/12/2024,Đang Giao,1307850,Mua sách giáo khoa
+DH049,KH019,28/12/2024,Đang Giao,1995791,Mua sách tham khảo
+DH050,KH008,30/12/2024,Đã Giao,4423204,Mua sách kinh tế
+DH051,KH015,15/12/2024,Chờ Xử Lý,3318443,Mua sách giáo khoa
+DH052,KH004,23/12/2024,Đã Giao,3109555,Mua sách giáo khoa
+DH053,KH023,20/12/2024,Đang Giao,1251525,Mua sách tham khảo
+DH054,KH002,25/12/2024,Đang Giao,1220981,Mua sách giáo dục đời sống
+DH055,KH026,18/12/2024,Đang Giao,2344524,Mua truyện tranh
+DH056,KH003,19/12/2024,Đã Hủy,1275859,Mua truyện tranh
+DH057,KH009,18/12/2024,Đã Giao,769041,Mua sách kinh tế
+DH058,KH024,15/12/2024,Đã Giao,3695396,Mua sách kinh tế
+DH059,KH011,22/12/2024,Đang Giao,2427202,Mua truyện tranh
+DH060,KH007,28/12/2024,Đã Giao,2178839,Mua sác giáo dục đời sống
+
